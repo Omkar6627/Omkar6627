@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-## Introduction
-
 <h1 align="center">Hey there! I'm Omkar</h1>
 <h3 align="center">An Aspiring Full stack developer . I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
 
@@ -21,16 +19,12 @@
 
 ### Blogging API
 
-![Blogging API]
-
 - *Overview:* A powerful API for bloggers to manage and publish articles seamlessly.
 - *Goals:* Provide an intuitive interface for content creation, storage, and retrieval.
 - *Technologies:* Java, Spring Boot, MySQL.
 - *Usage:* Detailed instructions can be found in the repository's README file.
 
 ### Expense Tracker
-
-![Expense Tracker]
 
 - *Overview:* A user-friendly application to track and manage personal expenses.
 - *Goals:* Simplify expense management and budget tracking for individuals.
