@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Omkar66527@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
+- 📄 Know about my experiences :-[Resume](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
