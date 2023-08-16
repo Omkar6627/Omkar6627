@@ -37,7 +37,7 @@ For a more detailed look into my projects, feel free to explore my repositories.
 <a href="https://linkedin.com/in/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar66527" height="30" width="40" /></a>
 <a href="https://kaggle.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omkar66527" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkar66527" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkar66527" height="30" width="40" /></a> <a href="mailto:omkar66527@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+<a href="https://www.leetcode.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkar66527" height="30" width="40" /></a><a href="mailto:omkar66527@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 </p>
 
 
