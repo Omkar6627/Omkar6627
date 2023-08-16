@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+#             Welcome to My GitHub Profile!
 
 <h1 align="center">Hey there! I'm Omkar</h1>
 <h3 align="center">An Aspiring Full stack developer . I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
