@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
-<h3 align="center">A passionate Java developer with a strong focus on Spring Boot and MySQL. I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
+<h3 align="center">An Aspiring Full stack developer . I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
 
 - 🌱 I’m currently learning **Spring security**
 
