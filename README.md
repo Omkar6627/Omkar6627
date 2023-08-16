@@ -36,7 +36,7 @@ For a more detailed look into my projects, feel free to explore my repositories.
 
 - 📫 How to reach me **Omkar66527@gmail.com**
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
+- 📄 Know about my [Experiences](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
   
 
 
