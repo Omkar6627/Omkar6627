@@ -1,23 +1,23 @@
-# Hello, I'm Omkar Pradeep Pawar 👋
+<h1 align="center">Hi 👋, I'm Omkar Pawar</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-Passionate Software Developer | Open to Opportunities
+- 🌱 I’m currently learning **Spring security**
 
-🔭 I’m currently exploring new career opportunities.
+- 💬 Ask me about **Java,Springboot,mysql**
 
-🌱 I specialize in **Java**, **Spring Boot**, and **REST API** development.
+- 📫 How to reach me **Omkar66527@gmail.com**
 
-🚀 Here's a glimpse of my skills and accomplishments:
-- 📚 Expertise in Java programming language.
-- ⚙️ Proficient in building robust RESTful APIs using Spring Boot.
-- 🛠️ Developed functional applications, including:
-  - [Expense Tracker](https://github.com/Omkar6627/ExpenseTracker) - A user-friendly API for tracking personal expenses.
-  - [Blog API](https://github.com/Omkar6627/BlogPost) - A versatile API for seamless management of blog posts.
-- 💼 Previous experience as a Teaching Assistant at Geekster.
+- 📄 Know about my experiences [https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
 
-📫 Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/omkar66527/)
-- [GitHub](https://github.com/omkar6627)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar66527" height="30" width="40" /></a>
+<a href="https://kaggle.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omkar66527" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omkar66527" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omkar66527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkar66527" height="30" width="40" /></a>
+</p>
 
-💬 Feel free to reach out if you're interested in collaborating or hiring a passionate developer!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar6627&show_icons=true&locale=en&layout=compact" alt="omkar6627" /></p>
