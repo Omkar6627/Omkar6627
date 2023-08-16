@@ -11,7 +11,7 @@
 - *Goals:* Provide an intuitive interface for content creation, storage, and retrieval.
 - *Technologies:* Java, Spring Boot, MySQL.
 - *Usage:* Detailed instructions can be found in the repository's README file.
-
+ 
 ### Expense Tracker
 
 - *Overview:* A user-friendly application to track and manage personal expenses.
