@@ -2,10 +2,16 @@
 <h3 align="center">Full-Stack Software Developer · .NET · Angular · Flutter</h3>
 
 <p align="center">
-  Two years building enterprise systems that have to hold up under load — vector search over
-  large datasets, event pipelines at a thousand events a second, live video, and the
-  observability to prove any of it works. I like the problems that look simple until you
-  read the spec.
+  Two years building enterprise systems that have to survive real load. I took a query on a
+  15-million-row table from <b>30 seconds to 4</b>, led a vector-search integration end to
+  end, and built an event pipeline that holds <b>1,000 events a second</b> with a live UI on
+  the other side of it.
+</p>
+
+<p align="center">
+  I care about the unglamorous half: the index that makes the query fast, the audit log that
+  makes the workflow trustworthy, the error message that tells you which of two problems you
+  actually have. I like the problems that look simple until you read the spec.
 </p>
 
 <p align="center">
@@ -128,4 +134,8 @@ REST · Clean Architecture · Modular Monolith · Event-Driven · Multi-Tenancy 
 
 **B.E., Mumbai University** (2021) · **Diploma, MSBTE** (2017)
 
-📄 [Full CV](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit) — open to interesting backend and full-stack work.
+📄 [Full CV](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/edit)
+
+> **Open to backend and full-stack roles.** If you want to see how I think rather than just
+> what I've shipped, read the [MoneyFlow write-up](https://github.com/Omkar6627/moneyflow) —
+> it documents a two-day build including the parts that failed and why.
