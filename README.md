@@ -134,7 +134,7 @@ REST · Clean Architecture · Modular Monolith · Event-Driven · Multi-Tenancy 
 
 **B.E., Mumbai University** (2021) · **Diploma, MSBTE** (2017)
 
-📄 [Full CV](https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/preview)
+📄 [Full CV]([https://docs.google.com/document/d/1eO3w-CQXmhg8CHa9-7R3WxEErKHZEUXksvbFCKEk4Go/preview](https://docs.google.com/document/d/1EiV6_VQIpfkeKwtDm2_R8wK4U8dShOK_8QJbhZixXns/edit?tab=t.0))
 
 > **Open to backend and full-stack roles.** If you want to see how I think rather than just
 > what I've shipped, read the [MoneyFlow write-up](https://github.com/Omkar6627/moneyflow) —
